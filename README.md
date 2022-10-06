@@ -1,5 +1,5 @@
 ---
-title: ExpressJS Postgres
+Title: ExpressJS Postgres
 description: An ExpressJS server that connects to a PostgreSQL database
 tags:
   - express
